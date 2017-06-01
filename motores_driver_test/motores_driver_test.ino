@@ -1,4 +1,7 @@
-N1=6;
+/*
+ * First test of driver motor L298
+ * 1/6/2017
+ */N1=6;
 N2=9;
 N3=10;
 N4=11;
